@@ -1,0 +1,7 @@
+#summary Getting started with Serendipity.
+
+= Introduction =
+
+The goal of this page is to get you up and running with Serendipity and to introduce you to best practice GWT-based application development.
+
+...
