@@ -7,3 +7,5 @@ The goal of this page is to get you up and running with Serendipity and to intro
 If you are just getting started then please take a look at the upTick <a href="http://uptick.com.au/blog" rel="nofollow">blog</a>.
 
 If you are having trouble with a particular browser then please try using Firefox (we've had a few issues with both Chrome and Safari from time to time).
+
+Note: The issue appears to have been addressed in smartGWT 2.4 and GWT 2.1.1. So if you are experiencing issues with a  particular browser then please raise an issue.
