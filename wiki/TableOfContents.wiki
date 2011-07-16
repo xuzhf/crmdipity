@@ -1,4 +1,3 @@
 #summary CRMdipty Wiki Contents
-#labels Featured
 
 === [GettingStarted Getting Started] ===
