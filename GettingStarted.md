@@ -1,0 +1,11 @@
+# Introduction #
+
+The goal of this page is to get you up and running with Serendipity and to introduce you to best practice GWT-based application development.
+
+If you are just getting started then please take a look at the upTick <a href='http://uptick.com.au/blog'>blog</a>.
+
+If you are having trouble with a particular browser then please try using Firefox (we've had a few issues with both Chrome and Safari from time to time).
+
+Note: This problem appears to have been addressed in smartGWT 2.4 and GWT 2.1.1, however, if you are having trouble with a  particular browser then please **raise an issue**.
+
+If the compiler complains about missing files (e.g. the generated Action and Result classes) then make sure you have enabled annotation processing within Eclipse. Take a look at the GWTP <a href='http://code.google.com/p/gwt-platform/wiki/BoilerplateGeneration'>wiki</a> re "Configuring your build environment".
